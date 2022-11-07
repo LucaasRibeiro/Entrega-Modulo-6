@@ -1,0 +1,27 @@
+.Home{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 0.7rem;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px ;
+    gap: 10px;
+    background-color: black;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+#orcamento{
+    color: rgba(255, 255, 255, 0.473);
+}
+
+.row{
+    margin-top: 40px;   
+}

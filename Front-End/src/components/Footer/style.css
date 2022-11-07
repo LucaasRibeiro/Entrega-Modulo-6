@@ -1,0 +1,25 @@
+footer{
+    font-size: small;
+    text-align: center;
+}
+
+footer {
+    color: #fff;
+    background-image: linear-gradient(to right, #212529, #212529);
+    margin-top: 120px;
+    padding: 20px 0;
+}
+
+footer img {
+    width: 20px;
+    height: 20px;
+}
+
+footer .area-limite {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h4 {
+    font-size: 1.1rem;
+}
