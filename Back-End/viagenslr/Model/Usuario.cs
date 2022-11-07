@@ -7,6 +7,5 @@ namespace viagemlr.Model
         public DateTime DataNascimento { get; set; }
         public string Email { get; set; }
         public string Telefone { get; set; }
-        private string senha { get; set; }
     }
 }

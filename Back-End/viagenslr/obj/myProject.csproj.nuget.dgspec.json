@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Remakker\\Desktop\\Entrega Modulo 6\\Back-End\\Monitoria\\myProject\\myProject.csproj": {}
+    "c:\\Users\\Remakker\\Desktop\\viagenslr\\myProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Remakker\\Desktop\\Entrega Modulo 6\\Back-End\\Monitoria\\myProject\\myProject.csproj": {
+    "c:\\Users\\Remakker\\Desktop\\viagenslr\\myProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Entrega Modulo 6\\Back-End\\Monitoria\\myProject\\myProject.csproj",
+        "projectUniqueName": "c:\\Users\\Remakker\\Desktop\\viagenslr\\myProject.csproj",
         "projectName": "myProject",
-        "projectPath": "C:\\Users\\Remakker\\Desktop\\Entrega Modulo 6\\Back-End\\Monitoria\\myProject\\myProject.csproj",
+        "projectPath": "c:\\Users\\Remakker\\Desktop\\viagenslr\\myProject.csproj",
         "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Remakker\\Desktop\\Entrega Modulo 6\\Back-End\\Monitoria\\myProject\\obj\\",
+        "outputPath": "c:\\Users\\Remakker\\Desktop\\viagenslr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

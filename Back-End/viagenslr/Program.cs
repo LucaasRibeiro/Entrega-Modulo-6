@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using myProject.Database;
-using myProject.Repository;
+using viagemlr.Database;
+using viagemlr.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
