@@ -1,0 +1,16 @@
+C# pelo vscode
+Ve a monitoria da Bruna ou https://www.youtube.com/watch?v=q4EGRq-q7Xs
+
+
+c# pelo visualstudio
+https://www.youtube.com/watch?v=2TxePNK0kc8&t=143s
+https://www.youtube.com/watch?v=0HGvToWEItY&t=911s
+
+
+Corrigir a parte do Spring
+Conectar ele com as rotas do reactj
+Corrigir a responsividade do navbar
+
+
+Modelagem
+Corrigir a parte do usuario sobre rg, cpf
