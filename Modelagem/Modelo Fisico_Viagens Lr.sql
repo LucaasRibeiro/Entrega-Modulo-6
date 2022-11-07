@@ -5,11 +5,8 @@ CREATE TABLE Usuario (
     id_usuario INTEGER PRIMARY KEY auto_increment,
     nome_usuario VARCHAR(30),
     data_nasc DATE,
-    cpf VARCHAR(15),
-    rg VARCHAR(9),
     tel_usuario VARCHAR(11),
     email_usuario VARCHAR(30),
-    senha_usuario VARCHAR(8)
 );
 
 CREATE TABLE Destinos (
